@@ -1,15 +1,12 @@
 ### Overview
 
-The build step invokes the TypeScript compiler to create ES5 javascript
-files and source maps from the `.ts` files. Run with:
-
     To install `npm install`
 
     To build: `npm run tsc`
 
-    To build and run `npm run tsc-and-serve`
+    To build and run the app `npm run tsc-and-serve`
 
-    To build and test `npm run tsc-and-test`
+    To build and run the tests `npm run tsc-and-test`
 
 ### Issue
 
